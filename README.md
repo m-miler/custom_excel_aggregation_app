@@ -11,7 +11,7 @@ User can create a new survey settings using the application or can load them fro
 
 ## Technologies
 
-Python 3.10
+Python 3.10 <br>
 Pandas 
 
 ## Setup
