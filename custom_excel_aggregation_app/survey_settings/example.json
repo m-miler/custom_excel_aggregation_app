@@ -1,0 +1,16 @@
+{
+  "SURVEY_NAME": "test",
+  "DATABASE_PATH": "C:/Users/random/Downloads/random_path",
+  "INFO_PATH": "C:/Users/random/Downloads/random_path",
+  "FINAL_CSV_PATH": "C:/Users/random/Downloads/random_path",
+  "CSV_NAME": "final_csv",
+  "NUMBER_OF_COLUMNS": 8,
+  "COLUMN_NAME_1": {
+    "NAME": "Ile saszetek suplementu dziecko przyjęło wczoraj?",
+    "CHOICES": {
+      "zero": 0,
+      "jedną": 1,
+      "dwie": 2
+    }
+  }
+}

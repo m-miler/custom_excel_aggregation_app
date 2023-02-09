@@ -5,13 +5,13 @@
 * [Application view](#application-view)
 
 ## General Info
-An application for aggregation data from online surveys. Data are stored in Excel files.
-Application creates an aggregated csv in specified path based on json settings provided by user.
+An application for aggregation data stored in Excel files based on user settings.
+Application creates an aggregated csv in specified path.
 User can create a new survey settings using the application or can load them from json file.
 
 ## Technologies
 
-Python 3.10
+Python 3.10 <br>
 Pandas 
 
 ## Setup
