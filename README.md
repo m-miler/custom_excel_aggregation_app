@@ -17,6 +17,10 @@ Pandas
 ## Setup
 
 1. Clone the repository: `https://github.com/m-miler/custom_excel_aggregation_app.git` <br>
-2. Open command line in repository and run code `python main.py`
+2. Open command line in application folder <br>
+3. Create a virtual environment `python venv venv` <br>
+4. Activate the virtual environment `venv/Scripts/activate` <br>
+4. Install python libraries `pip install -r requirements.txt` <br>
+2. Run application  `python main.py` <br>
 
 ## Application view
