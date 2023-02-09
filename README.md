@@ -24,4 +24,4 @@ Pandas
 2. Run application  `python main.py` <br>
 
 ## Application view
- <img scr="https://user-images.githubusercontent.com/62297597/217918473-779da1f6-738c-4aba-b65e-f6fa94d3d16c.png"></img>
+ <img src="https://user-images.githubusercontent.com/62297597/217918473-779da1f6-738c-4aba-b65e-f6fa94d3d16c.png"></img>
