@@ -67,5 +67,5 @@ class ExcelHandler:
         data = self._columns_custom_reindex(raw_data)
         csv_path = self._get_csv_full_path()
         data.to_csv(csv_path, encoding='utf-8-sig', index=False, sep=";")
-
+        print(f'CSV file has been saved in following localization\n {csv_path}')
 
